@@ -16,13 +16,6 @@ A Claude Code skill that generates realistic Node.js interview simulations — e
 /plugin install interview-sim@CrisTowi/claude-interview-sim
 ```
 
-Or from npm:
-
-```bash
-/plugin marketplace add npm:@CrisTowi/claude-interview-sim
-/plugin install interview-sim@CrisTowi-claude-interview-sim
-```
-
 ## Usage
 
 ```
