@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "CrisTowi/claude-interview-sim",
+  "name": "claude-interview-sim",
   "description": "Coding interview simulation skills for Claude Code — generates realistic challenge codebases across Node.js, TypeScript, Python/FastAPI, and Python/Flask.",
   "owner": {
     "name": "Christian Consuelo",
