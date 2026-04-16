@@ -1,0 +1,13 @@
+{
+  "name": "interview-sim",
+  "version": "1.0.0",
+  "description": "Generate realistic Node.js interview simulations — existing codebases with intentional bugs to fix and features to add.",
+  "author": {
+    "name": "Christian Consuelo",
+    "email": "christian.consuelo2@gmail.com"
+  },
+  "homepage": "https://github.com/CrisTowi/claude-interview-sim",
+  "repository": "https://github.com/CrisTowi/claude-interview-sim",
+  "license": "MIT",
+  "skills": "./skills/"
+}
