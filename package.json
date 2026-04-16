@@ -1,7 +1,7 @@
 {
   "name": "@CrisTowi/claude-interview-sim",
-  "version": "1.0.0",
-  "description": "Claude Code skill — generate realistic Node.js interview simulations with bugs to fix and features to add.",
+  "version": "1.1.0",
+  "description": "Claude Code skill — generate realistic coding interview simulations (Node.js, TypeScript, Python/FastAPI, Python/Flask) with bugs to fix and features to add.",
   "files": [
     ".claude-plugin",
     "skills"
@@ -12,6 +12,10 @@
     "claude-skill",
     "interview",
     "nodejs",
+    "typescript",
+    "python",
+    "fastapi",
+    "flask",
     "express"
   ],
   "author": "Christian Consuelo <christian.consuelo2@gmail.com>",
