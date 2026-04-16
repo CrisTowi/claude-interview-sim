@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "CrisTowi/claude-interview-sim",
+  "description": "Coding interview simulation skills for Claude Code — generates realistic challenge codebases across Node.js, TypeScript, Python/FastAPI, and Python/Flask.",
+  "owner": {
+    "name": "Christian Consuelo",
+    "email": "christian.consuelo2@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "interview-sim",
+      "description": "Generates realistic coding interview simulations — existing codebases with intentional bugs to fix and features to add. Supports Node.js/Express, TypeScript/Express, Python/FastAPI, and Python/Flask.",
+      "category": "development",
+      "source": "./plugins/interview-sim",
+      "homepage": "https://github.com/CrisTowi/claude-interview-sim"
+    }
+  ]
+}
