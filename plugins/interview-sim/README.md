@@ -13,7 +13,8 @@ A Claude Code skill that generates realistic coding interview simulations — ex
 ## Install
 
 ```bash
-/plugin install interview-sim@CrisTowi/claude-interview-sim
+claude plugin marketplace add CrisTowi/claude-interview-sim
+claude plugin install interview-sim@claude-interview-sim
 ```
 
 ## Usage
